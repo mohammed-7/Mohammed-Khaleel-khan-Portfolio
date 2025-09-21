@@ -74,7 +74,7 @@
 
     --border: 214 32% 91%;
   }
-  .dark {
+  /* .dark {
     --background: 222 47% 4%;
     --foreground: 213 31% 91%;
 
@@ -84,6 +84,17 @@
     --primary-foreground: 213 31% 91%;
 
     --border: 217 33% 20%;
+  } */
+
+  .dark {
+    --background: 270 80% 15%; /* deep violet background */
+    --foreground: 270 20% 95%; /* light lavender/white text */
+
+    --card: 270 70% 20%; /* slightly lighter violet for panels */
+    --primary: 280 100% 60%; /* bright neon violet for accents */
+    --primary-foreground: 0 0% 100%; /* white text on primary buttons */
+
+    --border: 270 60% 35%;
   }
 
   * {
