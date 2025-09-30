@@ -6,7 +6,7 @@ const projects = [
     title: 'Pyx Magic Backend Saas Project with AWS lambda + Python',
     description:
       'Scalable backend system for Pyx Magic built with FastAPI, PostgreSQL, and AWS. Implemented RDS Proxy for optimized database connections, integrated Zoho CRM facade, and improved API/data persistence performance for high-traffic usage.',
-    image: '/projects/project1.png',
+    image: '/projects/pyxdmagic.png',
     tags: ['React js', 'FastAPI', 'PostgreSQL', 'AWS', 'RDS Proxy', 'Zoho CRM'],
     demoUrl: 'https://pyxmagic.com/', // (You can replace with API docs or live demo link if available)
     githubUrl: '#', // (Your GitHub repo link if public)
