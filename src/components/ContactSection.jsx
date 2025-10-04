@@ -55,7 +55,7 @@ export const ContactSection = () => {
                     href="mailto:hello@xyzmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    kmohammedkhaleel05@gmail.com
+                    mohammedkhann296@gmail.com
                   </a>
                 </div>
               </div>
